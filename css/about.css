@@ -1,0 +1,377 @@
+@media (min-width:768px){
+    .navbar {
+        min-height: 150px;
+        padding-right: 11vmin;
+    }
+    .navbar-custom{
+        background-color: #ffffff;
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 50px;
+        height: 42px;
+        margin-top: -10vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    
+      .link_port{
+        width: 100%;
+        margin-top: 2vw;
+        display: flex;
+        justify-content: center;
+    }
+    .btn-info{
+        background-color: #4B56A5;
+        width: 18vw;
+        height: 3.5vw;
+        font-family: mitr, noto sans tc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.2vw;
+        letter-spacing: 0.1vw;
+        border: none;
+        border-radius: 1vw;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #F19762;
+    }
+  
+   
+    .col-lg-5{
+        padding-left: 5vw;
+    }
+    .col-lg-7{
+        padding-right: 5vw;
+    }
+    .my_pic{
+        width: 15vw;
+    }
+    .education{
+        margin-top: 0.5vw;
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+    }
+    .edu_words{
+        font-family: viga,noto sans tc;
+        font-size: 1vw;
+        color: #333333;
+    }
+    .interest{
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+        display: block;
+    }
+    .intere_pic{
+        display: block;
+    }
+    .contact{
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+    }
+    .con_words{
+        font-family: viga,noto sans tc;
+        font-size: 1vw;
+        color: #333333;
+    }
+    .i_am_amanda{
+        font-family: viga,noto sans tc;
+        font-size: 1vw;
+        letter-spacing: 2px;
+        color: #333333;
+    }
+    .skill_abili{
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+    }
+    .skill_words{
+        font-family: viga,noto sans tc;
+        font-size: 1vw;
+        color: #333333;
+    }
+    .skill_pic{
+        display: block;
+    }
+    .skill_pic_s{
+        display: none;
+    }
+    .soft{
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+    }
+}
+
+
+@media (min-width: 576px)and (max-width: 768px){
+    .navbar {
+        min-height: 100px;
+        padding-right: 11vmin;
+    }
+    .navbar-custom{
+        background-color: #ffffff;
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 50px;
+        height: 42px;
+        margin-top: 0vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    .link_port{
+        width: 100%;
+        margin-top: 10vw;
+        display: flex;
+        justify-content: center;
+    }
+    .btn-info{
+        background-color: #4B56A5;
+        width: 23vw;
+        height: 5.2vh;
+        font-family: mitr, noto sans tc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2vw;
+        border: none;
+        border-radius: 1vw;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #F19762;
+    }
+
+    .col-md-5{
+        padding-left: 0vw;
+    }
+    .col-md-7{
+        padding-right: 0vw;
+    }
+    .col-sm-12{
+        padding: 0;
+    }
+    .my_pic{
+        width: 25vw;
+    }
+    .education{
+        margin-top: 0.5vw;
+        font-family: viga,noto sans tc;
+        font-size: 2vw;
+        color: #F19762;
+       
+    }
+    .edu_words{
+        margin-top: -1vw;
+        font-family: viga,noto sans tc;
+        font-size: 1.5vw;
+        color: #333333;
+    }
+    .interest{
+        display: none;
+        font-family: viga,noto sans tc;
+        font-size: 1.2vw;
+        color: #F19762;
+    }
+    .intere_pic{
+        display: none;
+    }
+    .contact{
+        font-family: viga,noto sans tc;
+        font-size: 2vw;
+        color: #F19762;
+    }
+    .con_words{
+        font-family: viga,noto sans tc;
+        font-size: 1.5vw;
+        color: #333333;
+        margin-top: -1vw;
+    }
+    .i_am_amanda{
+        font-family: viga,noto sans tc;
+        font-size: 1.5vw;
+        letter-spacing: 2px;
+        color: #333333;
+    }
+    .skill_abili{
+        font-family: viga,noto sans tc;
+        font-size: 2vw;
+        color: #F19762;
+    }
+    .skill_words{
+        font-family: viga,noto sans tc;
+        font-size: 1.5vw;
+        color: #333333;
+        margin-top: -1vw;
+    }
+    .skill_pic{
+        display: block;
+    }
+    .skill_pic_s{
+        display: none;
+    }
+    .soft{
+        font-family: viga,noto sans tc;
+        font-size: 2vw;
+        color: #F19762;
+    } 
+}
+
+
+@media (max-width: 576px){
+    .navbar {
+        min-height: 100px;
+        padding-right: 11vmin;
+    }
+    .navbar-custom{
+        background-color: #ffffff;
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 40px;
+        height: 33.6px;
+        margin-top: 0vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    .link_port{
+        width: 100%;
+        margin-top: 3vw;
+        display: flex;
+        justify-content: center;
+    }
+    .btn-info{
+        background-color: #4B56A5;
+        width: 28vw;
+        height: 5.2vh;
+        font-family: mitr, noto sans tc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2.5vw;
+        border: none;
+        border-radius: 1vw;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #F19762;
+    }
+
+    .col-md-5{
+        padding-left: 0vw;
+    }
+    .col-md-7{
+        padding-right: 0vw;
+    }
+    .col-sm-12{
+        padding: 0;
+    }
+    .my_pic{
+        width: 35vw;
+    }
+    .education{
+        margin-top: 0.5vw;
+        font-family: viga,noto sans tc;
+        font-size: 3vw;
+        color: #F19762;
+       
+    }
+    .edu_words{
+        margin-top: -1vw;
+        font-family: viga,noto sans tc;
+        font-size: 2.5vw;
+        color: #333333;
+    }
+    .interest{
+        display: none;
+        font-family: viga,noto sans tc;
+        font-size: 3vw;
+        color: #F19762;
+    }
+    .intere_pic{
+        display: none;
+    }
+    .contact{
+        font-family: viga,noto sans tc;
+        font-size: 3vw;
+        color: #F19762;
+        display: none;
+    }
+    .con_words{
+        font-family: viga,noto sans tc;
+        font-size: 2.5vw;
+        color: #333333;
+        margin-top: -1vw;
+        display: none;
+    }
+    .i_am_amanda{
+        font-family: viga,noto sans tc;
+        font-size: 2.5vw;
+        letter-spacing: 2px;
+        color: #333333;
+    }
+    .skill_abili{
+        font-family: viga,noto sans tc;
+        font-size: 3vw;
+        color: #F19762;
+        display: none;
+    }
+    .skill_words{
+        font-family: viga,noto sans tc;
+        font-size: 2.5vw;
+        color: #333333;
+        margin-top: -1vw;
+        display: none;
+    }
+    .skill_pic{
+        display: none;
+    }
+    .skill_pic_s{
+        display: block;
+    }
+    .soft{
+        font-family: viga,noto sans tc;
+        font-size: 3vw;
+        color: #F19762;
+    } 
+    .row{
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+}

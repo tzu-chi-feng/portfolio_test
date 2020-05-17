@@ -1,0 +1,790 @@
+@media (min-width:992px){
+
+    .navbar {
+        margin-top: 5vh;
+        min-height: 50px;
+        margin-right: 0vw;
+    }
+    .navbar-custom{
+        background-color: rgba(255, 255, 255,0);
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 50px;
+        height: 42px;
+        margin-top: -10vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    
+    .navbar-custom .navbar-nav .nav-link-1 {
+        color: #4B56A5;
+        font-family: mitr;
+        font-size: 2.8vmin;
+        text-decoration: none;
+        margin-bottom: 2.3vh;
+    }
+    .navbar-custom .nav-item:hover .nav-link-1{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .fixed-top{
+        margin-left: 97vw;
+        margin-top: 15vh;
+    }
+    
+    .scrollspy-example {
+        position: relative;
+        height: 100%;   
+        overflow: auto;
+    }
+    
+      .title{
+          padding-left: 10vw;
+      }
+      .works{
+          font-family: viga;
+          font-size: 8vh;
+          color: #4B56A5;
+          letter-spacing: 0.5vh;
+          line-height: 8vh;
+      }
+      .ch_works{
+          margin-left: 15vh;
+          font-family: Noto Sans TC;
+          font-weight: bold;
+          letter-spacing: 1vh;
+          font-size: 7.5vh;
+          color: #F19762;
+      }
+      .title_uiux{
+          font-family: viga;
+          font-size: 5vh;
+          color: #FBC972;
+          margin-top: 3vw;
+          margin-right: 13vw;
+          }
+    
+.img_top{
+            margin-top: 5vh; 
+            width: 100%;
+            display: block;
+        }
+.img_top_m{
+            margin-top: 5vh; 
+            width: 100%;
+            display: none;
+        }
+        .img_top_s{
+            margin-top: 5vh; 
+            width: 100%;
+            display: none;
+        }
+        .img_works{
+            margin-top: 10vh; 
+            width: 100%;
+            display: block;
+        }
+        .img_works_m{
+            margin-top: 10vh; 
+            width: 100%;
+            display: none;
+        }
+        .img_works_s{
+            margin-top: 10vh; 
+            width: 100%;
+            display: none;
+        }
+    .br_{
+        display: block;
+    }
+    .intro_left{
+        margin-top:5vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+    }
+    .intro_right{
+        
+        margin-left: 20vw;
+        margin-top: 5vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+    }
+    
+    .title_3dd{
+        font-family: viga;
+        font-size: 5vh;
+        color: #FBC972;
+        margin-top: 5vw;
+        margin-right: 13vw;
+        }
+    .threeddd{
+        margin-top: 25vh;
+    }
+    .work_sing_pic{
+        width: 100%;
+        display: block;
+    }
+    .work_sing_pic_s{
+        width: 100%;
+        display: none;
+    }
+    .three_work_name{
+        font-family: mitr,noto sans tc;
+        font-size: 2vw;
+        color: #4B56A5;
+    
+    }
+    .three_work_detail{
+        font-family: mitr,noto sans tc;
+        font-size: 1.2vw;
+        color: #4B56A5;
+        text-align: end;
+        margin-top: 2vh;
+        margin-left: 83%;
+    }
+    .btn-info{
+        background-color: #F19762;
+        font-family: mitr;
+        font-size: 1vw;
+        border: none;
+        margin-top: 2vh;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #4B56A5;
+    }
+    .three_work_name_little{
+        font-family: mitr,noto sans tc;
+        font-size: 1.5vw;
+        color: #4B56A5;
+    
+    }
+    
+    .footer{
+        margin-top: 20vh;
+        height: 25vh;
+        background-color: #FBC972;
+        padding-top: 4vh;
+    }
+    .contact_me{
+        font-family: mitr;
+        font-size: 3vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+    .line_tel{
+        font-family: mitr;
+        font-size: 2.5vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+
+
+}
+
+
+@media (min-width:768px)and (max-width: 992px){
+    .navbar {
+        margin-top: 5vh;
+        min-height: 50px;
+        margin-right: 0vw;
+    }
+    .navbar-custom{
+        background-color: rgba(255, 255, 255,0);
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 50px;
+        height: 42px;
+        margin-top: -10vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    
+    .navbar-custom .navbar-nav .nav-link-1 {
+        color: #4B56A5;
+        font-family: mitr;
+        font-size: 2.8vmin;
+        text-decoration: none;
+        margin-bottom: 2.3vh;
+    }
+    .navbar-custom .nav-item:hover .nav-link-1{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .fixed-top{
+        margin-left: 97vw;
+        margin-top: 15vh;
+    }
+    
+    .scrollspy-example {
+        position: relative;
+        height: 100%;   
+        overflow: auto;
+    }
+    
+      .title{
+          padding-left: 10vw;
+      }
+      .works{
+          font-family: viga;
+          font-size: 8vh;
+          color: #4B56A5;
+          letter-spacing: 0.5vh;
+          line-height: 8vh;
+      }
+      .ch_works{
+          margin-left: 15vh;
+          font-family: Noto Sans TC;
+          font-weight: bold;
+          letter-spacing: 1vh;
+          font-size: 7.5vh;
+          color: #F19762;
+      }
+      .title_uiux{
+          font-family: viga;
+          font-size: 5vh;
+          color: #FBC972;
+          margin-top: 3vw;
+          margin-right: 13vw;
+          }
+    
+    .img_top{
+        margin-top: 5vh; 
+        width: 100%;
+        display: block;
+    }
+    .img_top_m{
+        margin-top: 5vh; 
+        width: 100%;
+        display: none;
+    }
+    .img_works{
+        margin-top: 10vh; 
+        width: 100%;
+        display: block;
+    }
+    .img_works_m{
+        margin-top: 10vh; 
+        width: 100%;
+        display: none;
+    }
+    .img_works_s{
+        margin-top: 10vh; 
+        width: 100%;
+        display: none;
+    }
+    .br_{
+        display: none;
+    }
+    .intro_left{
+        margin-top:5vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+    }
+    .intro_right{
+        
+        margin-left: 20vw;
+        margin-top: 5vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+    }
+    
+    .title_3dd{
+        font-family: viga;
+        font-size: 5vh;
+        color: #FBC972;
+        margin-top: 5vw;
+        margin-right: 13vw;
+        }
+    .threeddd{
+        margin-top: 25vh;
+    }
+    .work_sing_pic{
+        width: 100%;
+        display: block;
+    }
+    .work_sing_pic_s{
+        width: 100%;
+        display: none;
+    }
+    .three_work_name{
+        font-family: mitr,noto sans tc;
+        font-size: 2vw;
+        color: #4B56A5;
+    
+    }
+    .three_work_detail{
+        font-family: mitr,noto sans tc;
+        font-size: 1.2vw;
+        color: #4B56A5;
+        text-align: end;
+        margin-top: 2vh;
+        margin-left: 83%;
+    }
+    .btn-info{
+        background-color: #F19762;
+        font-family: mitr;
+        font-size: 1vw;
+        border: none;
+        margin-top: 2vh;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #4B56A5;
+    }
+    .three_work_name_little{
+        font-family: mitr,noto sans tc;
+        font-size: 1.5vw;
+        color: #4B56A5;
+    
+    }
+    
+    .footer{
+        margin-top: 20vh;
+        height: 25vh;
+        background-color: #FBC972;
+        padding-top: 4vh;
+    }
+    .contact_me{
+        font-family: mitr;
+        font-size: 3vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+    .line_tel{
+        font-family: mitr;
+        font-size: 2.5vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+
+}
+
+
+@media (min-width: 576px)and (max-width: 768px){
+    .navbar {
+        margin-top: 5vh;
+        min-height: 50px;
+        margin-right: 0vw;
+    }
+    .navbar-custom{
+        background-color: rgba(255, 255, 255,0);
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 50px;
+        height: 42px;
+        margin-top: -10vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    
+    .navbar-custom .navbar-nav .nav-link-1 {
+        color: #4B56A5;
+        font-family: mitr;
+        font-size: 2.8vmin;
+        text-decoration: none;
+        margin-bottom: 2.3vh;
+    }
+    .navbar-custom .nav-item:hover .nav-link-1{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .fixed-top{
+        margin-left: 97vw;
+        margin-top: 15vh;
+    }
+    
+    .scrollspy-example {
+        position: relative;
+        height: 100%;   
+        overflow: auto;
+    }
+    
+      .title{
+          padding-left: 10vw;
+      }
+      .works{
+          font-family: viga;
+          font-size: 5vh;
+          color: #4B56A5;
+          letter-spacing: 0.5vh;
+          line-height: 3vh;
+      }
+      .ch_works{
+          margin-left: 5vh;
+          font-family: Noto Sans TC;
+          font-weight: bold;
+          letter-spacing: 1vh;
+          font-size: 5vh;
+          color: #F19762;
+      }
+      .title_uiux{
+          font-family: viga;
+          font-size: 3vh;
+          color: #FBC972;
+          margin-top: 3vw;
+          margin-right: 13vw;
+          }
+    
+    .img_top{
+            margin-top: 5vh; 
+            width: 100%;
+            display: none;
+        }
+    .img_top_m{
+            margin-top: 5vh; 
+            width: 100%;
+            display: block;
+        }
+        .img_works{
+            margin-top: 10vh; 
+            width: 100%;
+            display: none;
+        }
+        .img_works_m{
+            margin-top: 10vh; 
+            width: 100%;
+            display: block;
+        }
+        .img_works_s{
+            margin-top: 10vh; 
+            width: 100%;
+            display: none;
+        }
+    .br_{
+        display: none;
+    }
+
+    .intro_left{
+        margin-top:3vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+        font-size: 1.2vh;
+    }
+    .intro_right{        
+        margin-left: 20vw;
+        margin-top: 3vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+        font-size: 1.2vh;
+    }
+    
+    .title_3dd{
+        font-family: viga;
+        font-size: 3vh;
+        color: #FBC972;
+        margin-top: 5vw;
+        margin-right: 13vw;
+        }
+    .threeddd{
+        margin-top: 10vh;
+    }
+    .work_sing_pic{
+        width: 100%;
+        display: block;
+    }
+    .work_sing_pic_s{
+        width: 100%;
+        display: none;
+    }
+    .three_work_name{
+        font-family: mitr,noto sans tc;
+        font-size: 3vw;
+        color: #4B56A5;
+    
+    }
+    .three_work_detail{
+        font-family: mitr,noto sans tc;
+        font-size: 2vw;
+        color: #4B56A5;
+        text-align: end;
+        margin-top: 2vh;
+        margin-left: 73%;
+    }
+    .btn-info{
+        background-color: #F19762;
+        font-family: mitr;
+        font-size: 2vw;
+        width: 150px;
+        height: 40px;
+        border: none;
+        margin-top: 2vh;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #4B56A5;
+    }
+    .three_work_name_little{
+        font-family: mitr,noto sans tc;
+        font-size: 2.2vw;
+        color: #4B56A5;
+    
+    }
+    
+    .footer{
+        margin-top: 10vh;
+        height: 15vh;
+        background-color: #FBC972;
+        padding-top: 2vh;
+    }
+    .contact_me{
+        font-family: mitr;
+        font-size: 2vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+    .line_tel{
+        font-family: mitr;
+        font-size: 1.5vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+
+}
+
+
+@media (max-width: 576px){
+    .navbar {
+        margin-top: 5vh;
+        min-height: 30px;
+        margin-right: 0vw;
+    }
+    .navbar-custom{
+        background-color: rgba(255, 255, 255,0);
+    }
+    
+    .navbar-custom .navbar-nav .nav-link {
+        color: rgba(251,201,114);
+        font-family: mitr;
+        font-size: 2.8vmin;
+    }
+    .navbar-custom .nav-item:hover .nav-link{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size: 3vmin;
+    }
+    .navbar-custom .navbar-toggler-icon {
+        width: 40px;
+        height: 33.6px;
+        margin-top: -10vmin;
+        background-image: url(../L/burger_icon.png);
+        
+      }
+    
+    .navbar-custom .navbar-nav .nav-link-1 {
+        color: #4B56A5;
+        font-family: mitr;
+        font-size: 4vw;
+        text-decoration: none;
+        margin-bottom: 2.3vh;
+    }
+    .navbar-custom .nav-item:hover .nav-link-1{
+        color: rgba(241, 151, 98);
+        font-weight: bold;
+        font-family: mitr;
+        font-size:4vw;
+    }
+    .fixed-top{
+        margin-left: 94vw;
+        margin-top: 15vh;
+    }
+    
+    .scrollspy-example {
+        position: relative;
+        height: 100%;   
+        overflow: auto;
+    }
+    
+      .title{
+          padding-left: 15vw;
+      }
+      .works{
+          font-family: viga;
+          font-size: 3vh;
+          color: #4B56A5;
+          letter-spacing: 0.2vh;
+          line-height: 1vh;
+      }
+      .ch_works{
+          margin-left: 5vh;
+          font-family: Noto Sans TC;
+          font-weight: bold;
+          letter-spacing: 0.5vh;
+          font-size: 4vh;
+          color: #F19762;
+      }
+      .title_uiux{
+          font-family: viga;
+          font-size: 3vh;
+          color: #FBC972;
+          margin-top: 3vw;
+          margin-right: 13vw;
+          }
+    
+    .img_top{
+            margin-top: 5vh; 
+            width: 100%;
+            display: none;
+        }
+    .img_top_m{
+            margin-top: 5vh; 
+            width: 100%;
+            display: none;
+        }
+    .img_top_s{
+            margin-top: 5vh; 
+            width: 100%;
+            display: block;
+        }    
+    .img_works{
+        margin-top: 10vh; 
+        width: 100%;
+        display: none;
+    }
+    .img_works_m{
+        margin-top: 10vh; 
+        width: 100%;
+        display: none;
+    }
+    .img_works_s{
+        margin-top: 10vh; 
+        width: 100%;
+        display: block;
+    }
+    .br_{
+        display: none;
+    }
+
+    .intro_left{
+        margin-top:3vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+        font-size: 2vh;
+        text-align: center;
+    }
+    .intro_right{     
+        display: none;   
+        margin-left: 20vw;
+        margin-top: 3vh;
+        font-family: mitr,Noto Sans TC;
+        color: #4B56A5;
+        font-size: 1.2vh;
+    }
+    
+    .title_3dd{
+        font-family: viga;
+        font-size: 3vh;
+        color: #FBC972;
+        margin-top: 5vw;
+        margin-right: 13vw;
+        }
+    .threeddd{
+        margin-top: 10vh;
+    }
+    .work_sing_pic{
+        width: 100%;
+        display: none;
+    }
+    .work_sing_pic_s{
+        width: 100%;
+        display: block;
+    }
+    .three_work_name{
+        font-family: mitr,noto sans tc;
+        font-size: 4vw;
+        color: #4B56A5;
+        text-align: center;
+        margin-left: 36%;
+    
+    }
+    .three_work_detail{
+        font-family: mitr,noto sans tc;
+        font-size: 1.8vh;
+        color: #4B56A5;
+        margin-top: 4vw;
+        margin-left: 35%;
+        text-align: center;
+    }
+    .btn-info{
+        background-color: #F19762;
+        font-family: mitr;
+        font-size: 3.5vw;
+        width: 150px;
+        height: 40px;
+        border: none;
+        text-align: center;
+        align-items: center;
+        margin-top: 0.5vh;
+        margin-left: 36%;
+    }
+    .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open>.dropdown-toggle.btn-info{
+        background-color: #4B56A5;
+    }
+    .three_work_name_little{
+        font-family: mitr,noto sans tc;
+        font-size: 4vw;
+        color: #4B56A5;
+        text-align: center;
+        margin-left: 19%;
+    
+    }
+    
+    .footer{
+        margin-top: 10vh;
+        height: 13vh;
+        background-color: #FBC972;
+        padding-top: 2vh;
+    }
+    .contact_me{
+        font-family: mitr;
+        font-size: 1.5vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+    .line_tel{
+        font-family: mitr;
+        font-size: 1vh;
+        text-align: center;
+        color: #4B56A5;
+    }
+}
