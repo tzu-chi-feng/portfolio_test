@@ -443,10 +443,10 @@
     .landing_me_M{
         display: block;
         position: absolute;
-        top: 15%;
+        top: 35%;
         z-index: -20;
         right: 10%;
-        width: 70%;
+        width: 100%;
     }
     
     .about_block{
