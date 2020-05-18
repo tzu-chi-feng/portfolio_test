@@ -655,10 +655,10 @@
     .landing_me_M{
         display: block;
         position: absolute;
-        top: 15%;
+        top: 25%;
         z-index: -20;
-        right: 10%;
-        width: 80%;
+        right: 15%;
+        width: 100%;
         
     }
     
