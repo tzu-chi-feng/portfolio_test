@@ -655,7 +655,7 @@
     .landing_me_M{
         display: block;
         position: absolute;
-        top: 35%;
+        top: 45vh;
         z-index: -20;
         right: 15%;
         width: 100%;
