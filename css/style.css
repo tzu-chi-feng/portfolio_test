@@ -443,7 +443,7 @@
     .landing_me_M{
         display: block;
         position: absolute;
-        top: 22vh;
+        top: 15%;
         z-index: -20;
         right: 10vw;
         width: 70%;
@@ -655,7 +655,7 @@
     .landing_me_M{
         display: block;
         position: absolute;
-        top: 22vh;
+        top: 15%;
         z-index: -20;
         right: 6vw;
         width: 80%;
