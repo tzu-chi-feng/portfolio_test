@@ -346,7 +346,7 @@
         z-index: 20;
         margin-top: -10vh;
         width: 10vw;
-        height: 4vh;
+        height: 4.5vw;
         font-family: mitr;
         font-size: 1vw;
         border: none;
@@ -503,9 +503,12 @@
         margin-top: 45vh;
         margin-left: 37vw;
         width: 23vw;
-        height: 5.2vh;
+        height: 10vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         font-family: mitr;
-        font-size: 2vw;
+        font-size: 2.5vw;
         border: none;
         border-radius: 3vw;
     }
@@ -542,9 +545,12 @@
         margin-top: 5vh;
         margin-left: 37vw;
         width: 23vw;
-        height: 5.2vh;
+        height: 10vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         font-family: mitr;
-        font-size: 2vw;
+        font-size: 2.5vw;
         border: none;
         border-radius: 3vw;
         color: #ffffff;
@@ -577,7 +583,7 @@
     }
     
     .footer{
-        margin-top: 10vh;
+        margin-top: 20vh;
         height: 15vh;
         background-color: #FBC972;
         padding-top: 2vh;

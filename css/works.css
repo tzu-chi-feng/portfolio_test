@@ -614,7 +614,7 @@
     .navbar-custom .navbar-nav .nav-link-1 {
         color: #4B56A5;
         font-family: mitr;
-        font-size: 4vw;
+        font-size: 3vw;
         text-decoration: none;
         margin-bottom: 2.3vh;
     }
@@ -622,10 +622,10 @@
         color: rgba(241, 151, 98);
         font-weight: bold;
         font-family: mitr;
-        font-size:4vw;
+        font-size:3vw;
     }
     .fixed-top{
-        margin-left: 94vw;
+        margin-left: 95%;
         margin-top: 15vh;
     }
     

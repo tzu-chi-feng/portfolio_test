@@ -28,7 +28,7 @@
     
       .link_port{
         width: 100%;
-        margin-top: 2vw;
+        margin-top: 4vw;
         display: flex;
         justify-content: center;
     }
@@ -62,17 +62,17 @@
     .education{
         margin-top: 0.5vw;
         font-family: viga,noto sans tc;
-        font-size: 1.2vw;
+        font-size: 1.5vw;
         color: #F19762;
     }
     .edu_words{
         font-family: viga,noto sans tc;
-        font-size: 1vw;
+        font-size: 1.3vw;
         color: #333333;
     }
     .interest{
         font-family: viga,noto sans tc;
-        font-size: 1.2vw;
+        font-size: 1.5vw;
         color: #F19762;
         display: block;
     }
@@ -81,28 +81,28 @@
     }
     .contact{
         font-family: viga,noto sans tc;
-        font-size: 1.2vw;
+        font-size: 1.5vw;
         color: #F19762;
     }
     .con_words{
         font-family: viga,noto sans tc;
-        font-size: 1vw;
+        font-size: 1.3vw;
         color: #333333;
     }
     .i_am_amanda{
         font-family: viga,noto sans tc;
-        font-size: 1vw;
+        font-size: 1.3vw;
         letter-spacing: 2px;
         color: #333333;
     }
     .skill_abili{
         font-family: viga,noto sans tc;
-        font-size: 1.2vw;
+        font-size: 1.5vw;
         color: #F19762;
     }
     .skill_words{
         font-family: viga,noto sans tc;
-        font-size: 1vw;
+        font-size: 1.3vw;
         color: #333333;
     }
     .skill_pic{
@@ -113,7 +113,7 @@
     }
     .soft{
         font-family: viga,noto sans tc;
-        font-size: 1.2vw;
+        font-size: 1.5vw;
         color: #F19762;
     }
 }
